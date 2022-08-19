@@ -1,6 +1,6 @@
 {
   "name": "insert-sql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "help developer generator a insert SQL statement",
   "main": "src/index.js",
   "type": "module",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mouday/more-copy.js"
+    "url": "https://github.com/mouday/insert-sql"
   },
-  "homepage": "https://github.com/mouday/more-copy.js",
+  "homepage": "https://github.com/mouday/insert-sql",
   "bugs": {
-    "url": "https://github.com/mouday/more-copy.js/issues"
+    "url": "https://github.com/mouday/insert-sql/issues"
   }
 }
