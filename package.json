@@ -1,0 +1,34 @@
+{
+  "name": "insert-sql",
+  "version": "1.0.1",
+  "description": "help developer generator a insert SQL statement",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "sql",
+    "mysql",
+    "insert",
+    "query"
+  ],
+  "author": "Peng Shiyu",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^28.1.3",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^28.1.3",
+    "regenerator-runtime": "^0.13.9",
+    "prettier": "^2.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mouday/more-copy.js"
+  },
+  "homepage": "https://github.com/mouday/more-copy.js",
+  "bugs": {
+    "url": "https://github.com/mouday/more-copy.js/issues"
+  }
+}
